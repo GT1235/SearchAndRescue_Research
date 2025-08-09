@@ -1,3 +1,5 @@
 # SearchAndRescue_Research
 
-The code will be uploaded to this GitHub soon. Thanks!
+The code is in my repo titled Search And Rescue Models.
+
+Thanks!
